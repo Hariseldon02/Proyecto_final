@@ -1,4 +1,4 @@
-#Decripción
+# Descripción
 En este proyecto se ha desarrollado una página web utilizando HTML, donde se han puesto en práctica diferentes etiquetas. Además, se incluyeron imágenes con hipervínculos que enlazan directamente a las canciones correspondientes.
 
 ## Cómo usar
